@@ -71,7 +71,7 @@ which provide experience in computing.
 
 5.2 To seek election to the Committee, each candidate must have 2 nominations by current regular members of the Society.
 
-5.3 To be deemed fit for election to the position of Systems Administrator, Webmaster or Helpdesk, the candidate must pass an aptitude test, set by the follwoing people for their respective roles:
+5.3 To be deemed fit for election to the position of Systems Administrator, Webmaster or Helpdesk, the candidate must pass an aptitude test, set by the following people for their respective roles:
 - The outgoing Webmaster, Helpdesk, or Systems Adminstrators
 - A third party nominated by the outgoing Webmaster, Helpdesk, or a majority of Systems Administrators.
 - A committee nominated third party in the case that none of the above criteria can be accommodated.
