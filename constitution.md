@@ -34,7 +34,7 @@ which provide experience in computing.
 ## 4 Governing Executive Committee
 
 4.1 The Society shall have a Governing Executive Committee (the Committee).
-4.2 The Committee shall run the Society on behalf of its members and in accordance with the aims and objectives and in compliance with the regulations set down by the Societies and Publications Committee.
+4.2 The Committee shall run the Society on behalf of its members and in accordance with the aims and objectives and in compliance with the regulations set down by the Clubs Societies and Publications Committee Societies Committee.
 4.3 Although decisions should be arrived at by the consensus of the Committee (where possible), committee decisions shall be decided by a majority vote. In the event of a tie, the Chairperson shall have the casting vote.
 4.4 A quorum shall be 2/3 of the Committee members.
 4.5 The Committee shall consist of:
@@ -74,10 +74,10 @@ which provide experience in computing.
 6.7 The Secretary shall give notice to all members of the Society's meetings, events, and functions through email.
 6.8 The Secretary shall assist the Public Relations Officer to organise fund raising events and sponsorship where necessary.
 6.9 The Treasurer shall administer the funds of the Society and to maintain accounts and budgets.
-6.10 The Treasurer shall be responsible for the maintenance of accounts subject to the decision of the Committee in compliance with the regulations set down the Societies and Publications Committee of Dublin City University.
+6.10 The Treasurer shall be responsible for the maintenance of accounts subject to the decision of the Committee in compliance with the regulations set down the Clubs Societies and Publications Committee Societies Committee of Dublin City University.
 6.11 The Treasurer shall keep full records of income and expenditure of the Society. The Treasurer shall also keep a record of who authorised various expenditures and shall issue receipts when needed.
 6.12 The Treasurer shall sign all cheques and withdrawal forms for the Society's bank account in conjunction with another bank account signatory member of the Committee.
-6.13 Where the Treasurer is decreed as unavailable, another designated person may sign cheques and withdrawal forms for the Society on consultation with the Societies & Publications Committee.
+6.13 Where the Treasurer is decreed as unavailable, another designated person may sign cheques and withdrawal forms for the Society on consultation with the Clubs Societies & Publications Committee Societies Committee.
 6.14 The Public Relations Officer (PRO), along with the Secretary, shall be responsible for the advertising of all functions of the Society through all means possible.
 6.15 The Public Relations Officer (PRO), along with the Secretary, shall deal with external correspondence and maintain record of the contribution of outside bodies have had for the Society and to give notice of all members of these contributions.
 6.16 The Systems Administrators shall be held ultimately responsible for the administration, security, and maintenance of the Society's computer systems. They shall be responsible for the notification of the Committee in regard to any breaches of the rules and regulations of the system. They are hereby authorised to take any administrative action necessary to discharge their duties, so long as such actions are constitutional. Such actions are open to review by the Committee.
@@ -117,17 +117,17 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 8.8 Notice of all meetings shall be given to the membership at least 3 working days prior to the date of the meeting.
 8.9 At a meeting, a member may propose a resolution relating to the business of the Society. The resolution shall be voted on by a show of hands and a declaration by the Chairperson that the resolution is carried (unless a secret ballot is demanded by any 5 members) shall be conclusive evidence that the resolution has passed or failed.
 
-8.10 In the event that the Chairperson's resolution (8.9) is challenged, a recount if the votes will be administered in which a number of appropriate people will be appointed as "tellers" to count the vote. The result will be announced by the Chairperson or the Vice-Chairperson (where requested by the general meeting). No resolution may contravene DCU or Societies & Publications Committee policies.
+8.10 In the event that the Chairperson's resolution (8.9) is challenged, a recount if the votes will be administered in which a number of appropriate people will be appointed as "tellers" to count the vote. The result will be announced by the Chairperson or the Vice-Chairperson (where requested by the general meeting). No resolution may contravene DCU or Clubs Societies & Publications Committee Societies Committee policies.
 
 ## 9 General
 
-9.1 There shall be a President of the Society who shall be a staff member in compliance with the regulations set down by the Societies & Publications Committee.
-9.2 The membership fee for the Society shall be in compliance with the conditions set down by the Societies & Publications Committee.
+9.1 There shall be a President of the Society who shall be a staff member in compliance with the regulations set down by the Clubs Societies & Publications Committee Societies Committee.
+9.2 The membership fee for the Society shall be in compliance with the conditions set down by the Clubs Societies & Publications Committee Societies Committee.
 9.3 Each Member of the Society shall be entitled to receive a copy of this Constitution, on demand, free of charge.
-9.4 In the event of a clash with the Societies & Publications Committee Constitution, the Societies & Publications Committee Constitution shall take precedence above this constitution  and is subject to Society Life Committee at all times.
+9.4 In the event of a clash with the Clubs Societies & Publications Committee Societies Committee Constitution, the Clubs Societies & Publications Committee Societies Committee Constitution shall take precedence above this constitution  and is subject to Society Life Committee at all times.
 9.5 In joining the Society, members agree to be bound by the rules and regulations of the Society as laid down in this Constitution and by the Governing Executive Committee. Members violating these rules and regulations shall be answerable to the Committee and may have any one or many of the following:
 	- Their computer system account suspended for a period of time decided by the Systems Administrators.
-	- Their membership revoked with no refund of membership fee for persistent or extrememly serious breaches as deemed by the majority of the Committee. In the event that the Committee cannot resolve a dispute with a member(s), the Societies & Publications Committee shall rule on the matter and its decision shall be final.
+	- Their membership revoked with no refund of membership fee for persistent or extrememly serious breaches as deemed by the majority of the Committee. In the event that the Committee cannot resolve a dispute with a member(s), the Clubs Societies & Publications Committee Societies Committee shall rule on the matter and its decision shall be final.
 
 ## 10 Equipment
 
