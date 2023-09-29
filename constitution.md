@@ -112,7 +112,7 @@ wh**ich** provide experience in computing.
 
 **6.16** The Systems Administrators shall be held ultimately responsible for the administration, security, and maintenance of the Society's computer systems. They shall be responsible for the notification of the Committee in regard to any breaches of the rules and regulations of the system. They are hereby authorised to take any administrative action necessary to discharge their duties, so long as such actions are constitutional. Such actions are open to review by the Committee.
 
-**6.17** The Webmaster shall be responsible for the design, implementation, and maintenance of the website. They shall work in conjuction with the other members of The Committee in order ot publicise society details via the web.
+**6.17** The Webmaster shall be responsible for the design, implementation, and maintenance of the website. They shall work in conjuction with the other members of The Committee in order to publicise society details via the web.
 
 **6.18** The Webmaster is also tasked with advising and assisting other clubs and societies in their endeavours to publicise themselves on the web.
 
