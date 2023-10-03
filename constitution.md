@@ -40,18 +40,20 @@ wh**ich** provide experience in computing.
 
 **4.1** The Society shall have a Governing Executive Committee (the Committee).
 
-**4.2** The Committee shall run the Society on behalf of its members and in accordance with the aims and objectives and in compliance with the regulations set down by the Clubs and Societies Committee.
+**4.2** The Committee shall run the Society on behalf of its members and in accordance with the aims and objectives and in compliance with the regulations set down by the Society Life Committee.
 
 **4.3** Although decisions should be arrived at by the consensus of the Committee (where possible), committee decisions shall be decided by a majority vote. In the event of a tie, the Chairperson shall have the casting vote.
 
 **4.4** A quorum shall be 2/3 of the Committee members.
 
-**4.5** The Committee shall consist of:
+**4.5** The Committee shall consist of the following core positions:
 - Chairperson
-- Vice-Chairperson
 - Secretary
 - Treasurer
 - Public Relations Officer (PRO)
+
+**4.6** The Committee may also be assisted by the following non-core poistions:
+- Vice-Chairperson
 - Graphics Design Officer (GDO)
 - First Year Rep
 - Webmaster
@@ -98,13 +100,13 @@ wh**ich** provide experience in computing.
 
 **6.9** The Treasurer shall administer the funds of the Society and to maintain accounts and budgets.
 
-**6.10** The Treasurer shall be responsible for the maintenance of accounts subject to the decision of the Committee in compliance with the regulations set down the Clubs & Societies Committee of Dublin City University.
+**6.10** The Treasurer shall be responsible for the maintenance of accounts subject to the decision of the Committee in compliance with the regulations set down the Society Life Committee of Dublin City University.
 
 **6.11** The Treasurer shall keep full records of income and expenditure of the Society. The Treasurer shall also keep a record of who authorised various expenditures and shall issue receipts when needed.
 
 **6.12** The Treasurer shall sign all cheques and withdrawal forms for the Society's bank account in conjunction with another bank account signatory member of the Committee.
 
-**6.13** Where the Treasurer is decreed as unavailable, another designated person may sign cheques and withdrawal forms for the Society on consultation with the Clubs & Societies Committee.
+**6.13** Where the Treasurer is decreed as unavailable, another designated person may sign cheques and withdrawal forms for the Society on consultation with the Society Life Committee.
 
 6.14 The Public Relations Officer (PRO), along with the Secretary, shall be responsible for the advertising of all functions of the Society through all means possible.
 
@@ -164,21 +166,21 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 
 **8.9** At a meeting, a member may propose a resolution relating to the business of the Society. The resolution shall be voted on by a show of hands and a declaration by the Chairperson that the resolution is carried (unless a secret ballot is demanded by any 5 members) shall be conclusive evidence that the resolution has passed or failed.
 
-**8.10** In the event that the Chairperson's resolution (8.9) is challenged, a recount if the votes will be administered in which a number of appropriate people will be appointed as "tellers" to count the vote. The result will be announced by the Chairperson or the Vice-Chairperson (where requested by the general meeting). No resolution may contravene DCU or Clubs & Societies Committee policies.
+**8.10** In the event that the Chairperson's resolution (8.9) is challenged, a recount if the votes will be administered in which a number of appropriate people will be appointed as "tellers" to count the vote. The result will be announced by the Chairperson or the Vice-Chairperson (where requested by the general meeting). No resolution may contravene DCU or Society Life Committee policies.
 
 ## 9 General
 
-**9.1** There shall be a President of the Society who shall be a staff member in compliance with the regulations set down by the Clubs & Societies Committee.
+**9.1** There shall be a President of the Society who shall be a staff member in compliance with the regulations set down by the Society Life Committee.
 
-**9.2** The membership fee for the Society shall be in compliance with the conditions set down by the Clubs & Societies Committee.
+**9.2** The membership fee for the Society shall be in compliance with the conditions set down by the Society Life Committee.
 
 **9.3** Each Member of the Society shall be entitled to receive a copy of this Constitution, on demand, free of charge.
 
-**9.4** In the event of a clash with the Clubs & Societies Committee Constitution, the Clubs & Societies Committee Constitution shall take precedence above this constitution  and is subject to Society Life Committee at all times.
+**9.4** In the event of a clash with the Society Life Committee Constitution, the Society Life Committee Constitution shall take precedence above this constitution  and is subject to Society Life Committee at all times.
 
 **9.5** In joining the Society, members agree to be bound by the rules and regulations of the Society as laid down in this Constitution and by the Governing Executive Committee. Members violating these rules and regulations shall be answerable to the Committee and may have any one or many of the following:
 - Their computer system account suspended for a period of time decided by the Systems Administrators.
-- Their membership revoked with no refund of membership fee for persistent or extrememly serious breaches as deemed by the majority of the Committee. In the event that the Committee cannot resolve a dispute with a member(s), the Clubs & Societies Committee shall rule on the matter and its decision shall be final.
+- Their membership revoked with no refund of membership fee for persistent or extrememly serious breaches as deemed by the majority of the Committee. In the event that the Committee cannot resolve a dispute with a member(s), the Society Life Committee shall rule on the matter and its decision shall be final.
 
 ## 10 Equipment
 
