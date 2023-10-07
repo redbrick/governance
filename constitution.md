@@ -11,8 +11,7 @@ The aims and objectives of the Society are as follows:
 - **2.1** To facilitate computing in all of its forms.
 - **2.2** The promotion of electronic communication and related computer systems in all of its forms.
 - **2.3** To create an environment in which its members can develop their skills.
-- **2.4** To provide a forum for members to interact and socialise through activities and discussions
-wh**ich** provide experience in computing.
+- **2.4** To provide a forum for members to interact and socialise through activities and discussions which provide experience in computing.
 - **2.5** To assist Society members to represent the Society at a higher level.
 - **2.6** To help educate people in the usage of Internet utilities and resources.
 - **2.7** To assist other clubs and societies in Dublin City University with computing related questions and tasks.
