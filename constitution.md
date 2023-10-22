@@ -8,6 +8,7 @@ appear on correspondance with official bodies.
 ## 2 Aims & Objectives
 
 The aims and objectives of the Society are as follows:
+
 - **2.1** To facilitate computing in all of its forms.
 - **2.2** The promotion of electronic communication and related computer systems in all of its forms.
 - **2.3** To create an environment in which its members can develop their skills.
@@ -22,7 +23,7 @@ The aims and objectives of the Society are as follows:
 
 **3.2** Membership shall be obtained by paying the appropriate fee and registering through the Online Management System.
 
-**3.3** the Society recognises the importance, experience and knowledge that graduates and former members bring to the Society, therefore we will endeaver to retain their connection to the Society.
+**3.3** the Society recognises the importance, experience and knowledge that graduates and former members bring to the Society, therefore we will endeavour to retain their connection to the Society.
 
 **3.4** To this end, the Governing Executive Committee of the Society shall be empowered to create a class of "Associate Member" of the Society.
 
@@ -46,12 +47,14 @@ The aims and objectives of the Society are as follows:
 **4.4** A quorum shall be 2/3 of the Committee members.
 
 **4.5** The Committee shall consist of the following core positions:
+
 - Chairperson
 - Secretary
 - Treasurer
 - Public Relations Officer (PRO)
 
 **4.6** The Committee may also be assisted by the following non-core poistions:
+
 - Vice-Chairperson
 - Graphics Design Officer (GDO)
 - First Year Rep
@@ -67,12 +70,12 @@ The aims and objectives of the Society are as follows:
 
 ## 5 Election of The Governing Executive Committee:
 
-
 **5.1** The Committee Members shall be democratically elected at the Annual General Meeting (AGM) or at an Extra-ordinary General Meeting (EGM).
 
 **5.2** To seek election to the Committee, each candidate must have 2 nominations by current regular members of the Society.
 
 **5.3** To be deemed fit for election to the position of Systems Administrator, Webmaster or Helpdesk, the candidate must pass an aptitude test, set by the following people for their respective roles:
+
 - The outgoing Webmaster, Helpdesk, or Systems Adminstrators
 - A third party nominated by the outgoing Webmaster, Helpdesk, or a majority of Systems Administrators.
 - A committee nominated third party in the case that none of the above criteria can be accommodated.
@@ -107,7 +110,7 @@ The aims and objectives of the Society are as follows:
 
 **6.13** Where the Treasurer is decreed as unavailable, another designated person may sign cheques and withdrawal forms for the Society on consultation with the Society Life Committee.
 
-6.14 The Public Relations Officer (PRO), along with the Secretary, shall be responsible for the advertising of all functions of the Society through all means possible.
+**6.14** The Public Relations Officer (PRO), along with the Secretary, shall be responsible for the advertising of all functions of the Society through all means possible.
 
 **6.15** The Public Relations Officer (PRO), along with the Secretary, shall deal with external correspondence and maintain record of the contribution of outside bodies have had for the Society and to give notice of all members of these contributions.
 
@@ -134,6 +137,7 @@ The aims and objectives of the Society are as follows:
 ## 7 Dismissal and Resignation of Committee Members:
 
 No member of the Committee shall be dismissed from office unless one of the following conditions is met:
+
 - Written notice of a resolution to seek such a dismissal, signed by 10% of the Members of the Society is received 4 working days prior to a general meeting at which such a resolution shall be debated.
 - 2/3rds of the Governing Executive Committee may also call a meeting to debate the dismissal of another Committee Member.
 
@@ -155,6 +159,7 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 **8.5** The business of the AGM shall include the election of relevant Executive Governing Committee as well as annual reports from the outgoing Governing Executive Committee (which should include a Treasurer's report on the finances of the society).
 
 **8.6** An Extra-ordinary General Meeting (EGM) shall be convened if:
+
 - 10% of the ordinary membership of the Society requests such a meeting in writing.
 - A quorum of the Governing Executive Committee requests such a meeting in writing.
 - A vacancy on the current Committee occurs and there is need to elect a replacement.
@@ -178,12 +183,14 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 **9.4** In the event of a clash with the Society Life Committee Constitution, the Society Life Committee Constitution shall take precedence above this constitution  and is subject to Society Life Committee at all times.
 
 **9.5** In joining the Society, members agree to be bound by the rules and regulations of the Society as laid down in this Constitution and by the Governing Executive Committee. Members violating these rules and regulations shall be answerable to the Committee and may have any one or many of the following:
+
 - Their computer system account suspended for a period of time decided by the Systems Administrators.
 - Their membership revoked with no refund of membership fee for persistent or extrememly serious breaches as deemed by the majority of the Committee. In the event that the Committee cannot resolve a dispute with a member(s), the Society Life Committee shall rule on the matter and its decision shall be final.
 
 ## 10 Equipment
 
 **10.1** Any equipment loaned to the Society by individuals may only be withdrawn if:
+
 - **10.1.1** Notice is given by the individual at least two weeks prior to the date of withdrawal, and
 - **10.1.2** Express approval of a Committee majority.
 
@@ -195,7 +202,7 @@ A Committee Member wishing to resign must submit a letter in writing declaring t
 
 **10.5** Administration of loaned or donated equipment shall be the exclusive responsibility of the Committee.
 
-## 11 Amendmants to this Constitution
+## 11 Amendments to this Constitution
 
 **11.1** Notice of a proposal to seek an amendment to this Constitution shall be given to the members at least 4 working days prior to the meeting at which such a proposal shall be considered.
 
