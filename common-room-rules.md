@@ -2,15 +2,13 @@
 
 > Failure to abide by these rules can and will result in us taking away your key card and banning you from the common room
 
-1. The common room is a communal space for everyone, this means that sexism, racism and any other type of discrimination is completely prohibited. This is one of the rules that will result in an instant ban with no warning. The society you are a part of will also be made aware of any breach of this rule.
-2. The common room is a place where everyone should feel welcome, any act that causes other members to feel uncomfortable will be reviewed by the common room committee.
-3. The common room is a space completely maintained by both Redbrick and EngSoc therefore members are expected to clean up after themselves, including any rubbish they may bring in, in addition to the plates, bowls and cutlery provided in the room. This also includes cleaning up any mess you may make such as spillages, etc.
-4. Members are expected to maintain a reasonable level of hygiene while using the Common Room.
-5. Redbrick and EngSoc both have members designated to look after the common room. Any questions or concerns regarding rules or anything else in the common room can be directed to those members of the committees first. Common room committee members as a group have final say on all things regarding the common room.
-    - The current common room committee members for Redbrick are: Shane, Dominic, and Robert.
-    - The current common room committee members for EngSoc are Sam, Max, and Neil.
-7. Vaping, alcohol and illegal substances of any kind are completely prohibited in the common room.
-8. Anyone in the common room should be a member of Redbrick or EngSoc, if people have not paid their membership fees it leaves us with less resources to improve and maintain the Common Room.
-9. Any breach of these rules will be brought up with your respective society and any relevant authorities in line with the respective society's constitution.
-
+1. This room is a common space meaning that any activity that makes the room feel unwelcome to others or actively makes people uncomfortable is prohibited. This includes any form of open hate speech, and direct attacks against other members of the common room.
+2. We will not tolerate people misusing the space or the resources that we have made available.
+3. Leave the room as you found it. Any mess made by any member is to be cleaned up by said member. Specifically dishes, deskspaces and spillages.
+4. You will be liable for the actions of anyone you let into the common room who is not a member of Redbrick or Engsoc.
+5. The common room is overseen by a committee of 6 people, we can be contacted at the following email address. commonnroom@redbrick.dcu.ie
+6. Members of the common room are expected to mantain a reasonable level of hygiene, people violating this rule will be spoken to privately.
+7. We expect members to be respectful of eachother and to comply with reasonable requests from others in the room.
+8. Illegal activity will not be tolerated in any regard. Violations of this rule will result in an immediate suspension of your access to the common room.
+9. Disciplinary action will be taken by the common room committee if needs be. Any violations of the rules should be reported at the above email address and your details will be kept anonymous if so requested.
 > ### Redbrick and Engineering Society Committees
