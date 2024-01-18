@@ -39,7 +39,7 @@ The aims and objectives of the Society are as follows:
 
 ## 4 Governing Executive Committee
 
-**4.1** The Society shall have a Governing Executive Committee (the Committee).
+**4.1** The Society shall have a Governing Executive Committee (The Committee).
 
 **4.2** The Committee shall run the Society on behalf of its members and in accordance with the aims and objectives and in compliance with the regulations set down by the Society Life Committee.
 
@@ -57,12 +57,12 @@ The aims and objectives of the Society are as follows:
 **4.6** The Committee may also be assisted by the following non-core poistions:
 
 - Vice-Chairperson
+- 2x Events Officer
 - Graphics Design Officer (GDO)
-- First Year Rep
+- First Year Representative
 - Webmaster
 - 3x Systems Administrator
 - 2x Helpdesk
-- 2x Events Officer
 - 2x Ordinary Member
 
 **4.6** The Term of Office of these elected officers shall be one academic year. The academic year ends when the AGM is held at the end of Semester 2.
