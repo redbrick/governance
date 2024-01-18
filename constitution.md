@@ -23,22 +23,23 @@ The aims and objectives of the Society are as follows:
 
 **3.2** Membership shall be obtained by paying the appropriate fee and registering through the Online Management System.
 
-**3.3** the Society recognises the importance, experience and knowledge that graduates and former members bring to the Society, therefore we will endeavour to retain their connection to the Society.
+**3.3** The Society recognises the importance, experience and knowledge that graduates and former members bring to the Society, therefore we will endeavour to retain their connection to the Society.
 
 **3.4** To this end, the Governing Executive Committee of the Society shall be empowered to create a class of "Associate Member" of the Society.
 
 - **3.4.1** Associate Membership shall be open to former members of the Society who are no longer students of Dublin City University. It shall not be a requirement of Associate Membership that such members should hold a degree or any other academic award given by Dublin City University.
 - **3.4.2** Associate Members shall pay an annual membership fee to the Society. The amount of this fee shall be determined by the Governing Executive Committee, but may be altered by a majority vote at a general meeting of the Society. The Associate Membership fee shall not be less than the Ordinary Membership fee, and no more than 10 times the Ordinary Membership fee.
 - **3.4.3** Associate Members shall be entitled to attend all general meetings of the Society but are not entitled to a vote. The rights of an Associate Member shall not exceed those of an Ordinary Member of the Society.
-- **3.4.4** Other rights of Associate Members shall be determined by the Governing Executive Committee, but may also be granted or revoked by a majority vote at a general meeting of the Society.
-- **3.4.5** Honorary lifetime membership is awarded to the founding committee members of the Society.
-- **3.4.6** Nothing in this section shall prevent the Society from bestowing honorary membership upon an Associate Member of the Society.
+- **3.4.4** Associate Members are not eligible for election to the Society’s Governing Executive Committee.
+- **3.4.5** Other rights of Associate Members shall be determined by the Governing Executive Committee, but may also be granted or revoked by a majority vote at a general meeting of the Society.
+- **3.4.6** Honorary lifetime membership is awarded to the founding committee members of the Society.
+- **3.4.7** Nothing in this section shall prevent the Society from bestowing honorary membership upon any eligible Ordinary or Associate member of the Society.
 
 **3.5** All members of the Society are bound by this constitution.
 
 ## 4 Governing Executive Committee
 
-**4.1** The Society shall have a Governing Executive Committee (the Committee).
+**4.1** The Society shall have a Governing Executive Committee (The Committee).
 
 **4.2** The Committee shall run the Society on behalf of its members and in accordance with the aims and objectives and in compliance with the regulations set down by the Society Life Committee.
 
@@ -56,12 +57,12 @@ The aims and objectives of the Society are as follows:
 **4.6** The Committee may also be assisted by the following non-core poistions:
 
 - Vice-Chairperson
+- 2x Events Officer
 - Graphics Design Officer (GDO)
-- First Year Rep
+- First Year Representative
 - Webmaster
 - 3x Systems Administrator
 - 2x Helpdesk
-- 2x Events Officer
 - 2x Ordinary Member
 
 **4.6** The Term of Office of these elected officers shall be one academic year. The academic year ends when the AGM is held at the end of Semester 2.
@@ -76,8 +77,8 @@ The aims and objectives of the Society are as follows:
 
 **5.3** To be deemed fit for election to the position of Systems Administrator, Webmaster or Helpdesk, the candidate must pass an aptitude test, set by the following people for their respective roles:
 
-- The outgoing Webmaster, Helpdesk, or Systems Adminstrators
-- A third party nominated by the outgoing Webmaster, Helpdesk, or a majority of Systems Administrators.
+- The outgoing Webmaster, Helpdesk, or Systems Adminstrators OR
+- A third party nominated by the outgoing Webmaster, Helpdesk, or a majority of Systems Administrators OR
 - A committee nominated third party in the case that none of the above criteria can be accommodated.
 
 **5.4** The 1st Year Liaison Officer shall be elected at an EGM in semester one, and must be in their first year as an undergraduate student at DCU.
@@ -124,7 +125,7 @@ The aims and objectives of the Society are as follows:
 
 **6.20** The Events Officer shall have the responsibility of organising all receptions and events held by the Society.
 
-**6.21** First Year Liason Officer shall work with the Committee to make the Society more accessible for first year students. As part of this they will work closely with the Events Officers, Public Relations Officer and Helpdesk where applicable.
+**6.21** First Year Liason Officer shall work with the Committee to make the Society more accessible for first year students. As part of this they will work closely with the Events Officers, Public Relations Officer and Helpdesk where applicable. The 1st Year Liaison Officer shall be elected at an EGM in semester one, and must be in their first year as an undergraduate student at DCU.
 
 **6.22** The Ordinary Member shall be an assisting figure within the Society. They shall be be involved in assisting other Committee Members in their duties and the organisation and running of events.
 
