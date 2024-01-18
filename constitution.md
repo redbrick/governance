@@ -30,9 +30,10 @@ The aims and objectives of the Society are as follows:
 - **3.4.1** Associate Membership shall be open to former members of the Society who are no longer students of Dublin City University. It shall not be a requirement of Associate Membership that such members should hold a degree or any other academic award given by Dublin City University.
 - **3.4.2** Associate Members shall pay an annual membership fee to the Society. The amount of this fee shall be determined by the Governing Executive Committee, but may be altered by a majority vote at a general meeting of the Society. The Associate Membership fee shall not be less than the Ordinary Membership fee, and no more than 10 times the Ordinary Membership fee.
 - **3.4.3** Associate Members shall be entitled to attend all general meetings of the Society but are not entitled to a vote. The rights of an Associate Member shall not exceed those of an Ordinary Member of the Society.
-- **3.4.4** Other rights of Associate Members shall be determined by the Governing Executive Committee, but may also be granted or revoked by a majority vote at a general meeting of the Society.
-- **3.4.5** Honorary lifetime membership is awarded to the founding committee members of the Society.
-- **3.4.6** Nothing in this section shall prevent the Society from bestowing honorary membership upon any eligible Ordinary or Associate member of the Society.
+- **3.4.4** Associate Members are not eligible for election to the Society’s Governing Executive Committee.
+- **3.4.5** Other rights of Associate Members shall be determined by the Governing Executive Committee, but may also be granted or revoked by a majority vote at a general meeting of the Society.
+- **3.4.6** Honorary lifetime membership is awarded to the founding committee members of the Society.
+- **3.4.7** Nothing in this section shall prevent the Society from bestowing honorary membership upon any eligible Ordinary or Associate member of the Society.
 
 **3.5** All members of the Society are bound by this constitution.
 
