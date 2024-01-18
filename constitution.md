@@ -125,7 +125,7 @@ The aims and objectives of the Society are as follows:
 
 **6.20** The Events Officer shall have the responsibility of organising all receptions and events held by the Society.
 
-**6.21** First Year Liason Officer shall work with the Committee to make the Society more accessible for first year students. As part of this they will work closely with the Events Officers, Public Relations Officer and Helpdesk where applicable.
+**6.21** First Year Liason Officer shall work with the Committee to make the Society more accessible for first year students. As part of this they will work closely with the Events Officers, Public Relations Officer and Helpdesk where applicable. The 1st Year Liaison Officer shall be elected at an EGM in semester one, and must be in their first year as an undergraduate student at DCU.
 
 **6.22** The Ordinary Member shall be an assisting figure within the Society. They shall be be involved in assisting other Committee Members in their duties and the organisation and running of events.
 
