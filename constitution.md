@@ -32,7 +32,7 @@ The aims and objectives of the Society are as follows:
 - **3.4.3** Associate Members shall be entitled to attend all general meetings of the Society but are not entitled to a vote. The rights of an Associate Member shall not exceed those of an Ordinary Member of the Society.
 - **3.4.4** Other rights of Associate Members shall be determined by the Governing Executive Committee, but may also be granted or revoked by a majority vote at a general meeting of the Society.
 - **3.4.5** Honorary lifetime membership is awarded to the founding committee members of the Society.
-- **3.4.6** Nothing in this section shall prevent the Society from bestowing honorary membership upon an Associate Member of the Society.
+- **3.4.6** Nothing in this section shall prevent the Society from bestowing honorary membership upon any eligible Ordinary or Associate member of the Society.
 
 **3.5** All members of the Society are bound by this constitution.
 
