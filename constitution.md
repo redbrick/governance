@@ -77,8 +77,8 @@ The aims and objectives of the Society are as follows:
 
 **5.3** To be deemed fit for election to the position of Systems Administrator, Webmaster or Helpdesk, the candidate must pass an aptitude test, set by the following people for their respective roles:
 
-- The outgoing Webmaster, Helpdesk, or Systems Adminstrators
-- A third party nominated by the outgoing Webmaster, Helpdesk, or a majority of Systems Administrators.
+- The outgoing Webmaster, Helpdesk, or Systems Adminstrators OR
+- A third party nominated by the outgoing Webmaster, Helpdesk, or a majority of Systems Administrators OR
 - A committee nominated third party in the case that none of the above criteria can be accommodated.
 
 **5.4** The 1st Year Liaison Officer shall be elected at an EGM in semester one, and must be in their first year as an undergraduate student at DCU.
