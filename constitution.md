@@ -23,7 +23,7 @@ The aims and objectives of the Society are as follows:
 
 **3.2** Membership shall be obtained by paying the appropriate fee and registering through the Online Management System.
 
-**3.3** the Society recognises the importance, experience and knowledge that graduates and former members bring to the Society, therefore we will endeavour to retain their connection to the Society.
+**3.3** The Society recognises the importance, experience and knowledge that graduates and former members bring to the Society, therefore we will endeavour to retain their connection to the Society.
 
 **3.4** To this end, the Governing Executive Committee of the Society shall be empowered to create a class of "Associate Member" of the Society.
 
